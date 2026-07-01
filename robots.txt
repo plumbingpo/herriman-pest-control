@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://herrimanpestcontrol.com/sitemap.xml
